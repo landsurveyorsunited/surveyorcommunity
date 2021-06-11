@@ -7,7 +7,7 @@ sources:
   - href: https://landsurveyorsunited.com/profiles/blog/list/feed/all
   - href: https://landsurveyorsunited.com/notes/feed/all
   - href: https://landsurveyorsunited.com/almanac/feed/all
-  - href: Sitemap: https://landsurveyorsunited.com/articles/feed/all
+  - href: https://landsurveyorsunited.com/articles/feed/all
   
   # `siteTitle`: Title to use in the browser tab and the machine readable feed output. (optional)
 siteTitle: "Land Surveyor Community Feeds - Land Surveyors United"
@@ -15,4 +15,4 @@ siteTitle: "Land Surveyor Community Feeds - Land Surveyors United"
 # `cacheMaxDays` Max number of days to keep the feed content in cache. A very large value can increase the initial load time of the site. (optional)
 cacheMaxDays: 20
 
-#
+
