@@ -1,6 +1,6 @@
 # About
 
-This is repository hosts the UI and content of an RSS feed reader.
+This is repository hosts the UI and content of an RSS feed reader of [Land Surveyors United Community](https://landsurveyorsunited.com).
 
 ## Links and references
 
