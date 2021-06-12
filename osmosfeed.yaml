@@ -2,7 +2,7 @@ cacheUrl: https://landsurveyorsunited.github.io/surveyorcommunity/cache.json
 sources:
   - href: https://landsurveyorsunited.com/activity/log/rss?sitePageId=6622436%3ASitePage%3A10014
   - href: https://landsurveyorsunited.com/forum/topics/feed/all
-  - href: https://landsurveyorsunited.com/video/feed/all
+  - href: http://feeds.feedburner.com/landsurveyorsunited-videos
   - href: https://landsurveyorsunited.com/photo/feed/all
   - href: https://landsurveyorsunited.com/profiles/blog/list/feed/all
   - href: https://landsurveyorsunited.com/notes/feed/all
