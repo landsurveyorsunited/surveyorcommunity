@@ -6,8 +6,18 @@ sources:
   - href: https://landsurveyorsunited.com/notes/feed/all/
   - href: https://landsurveyorsunited.com/almanac/feed/all/
   - href: https://landsurveyorsunited.com/articles/feed/all/
+  - href: https://rss.smarketplace.org/feed
+  - href: https://rssmix.com/u/12257327/rss.xml
+  - href: https://landsurveyorsunited.com/hubs/trimblesupportgroup/forum/feed/all
+  - href: https://landsurveyorsunited.com/hubs/leicasupportgroup/forum/feed/all
+  - href: https://landsurveyorsunited.com/hubs/topconsupportgroup/forum/feed/all
+  - href: https://landsurveyorsunited.com/hubs/sokkiasupportgroup/forum/feed/all
+  - href: https://landsurveyorsunited.com/hubs/excel/forum/feed/all
+  - href: https://landsurveyorsunited.com/hubs/drone-surveying/forum/feed/all
+  - href: https://landsurveyorsunited.com/hubs/roboticsforlandsurveyors/forum/feed/all
+  - href: https://feeds.feedburner.com/LatestActivityLandSurveyors
 # `siteTitle`:
 siteTitle: "Land Surveyor Community Feeds - Land Surveyors United"
 
 # `cacheMaxDays` Max number of days to keep the feed content in cache. A very large value can increase the initial load time of the site. (optional)
-cacheMaxDays: 30
+cacheMaxDays: 60
