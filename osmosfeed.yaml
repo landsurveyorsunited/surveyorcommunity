@@ -1,8 +1,8 @@
 cacheUrl: https://landsurveyorsunited.github.io/surveyorcommunity/cache.json
 sources:
-  - href: https://feeds.feedburner.com/latestactivitylandsurveyors/
+  - href: http://feeds.feedburner.com/latestactivitylandsurveyors/
   - href: https://landsurveyorsunited.com/forum/topics/feed/all/
-  - href: https://feeds.feedburner.com/landsurveyorsunited-videos/
+  - href: http://feeds.feedburner.com/landsurveyorsunited-videos/
   - href: https://landsurveyorsunited.com/photo/feed/all/
   - href: https://landsurveyorsunited.com/profiles/blog/list/feed/all/
   - href: https://landsurveyorsunited.com/notes/feed/all/
