@@ -1,13 +1,8 @@
 cacheUrl: https://landsurveyorsunited.github.io/surveyorcommunity/cache.json
 sources:
-  - href: http://feeds.feedburner.com/latestactivitylandsurveyors
+  - href: https://feeds.feedburner.com/latestactivitylandsurveyors
   - href: https://landsurveyorsunited.com/forum/topics/feed/all
-  - href: http://feeds.feedburner.com/landsurveyorsunited-videos
-  - href: https://landsurveyorsunited.com/photo/feed/all
-  - href: https://landsurveyorsunited.com/profiles/blog/list/feed/all
-  - href: https://landsurveyorsunited.com/notes/feed/all
-  - href: https://landsurveyorsunited.com/almanac/feed/all
-  - href: https://landsurveyorsunited.com/articles/feed/all
+
   
 # `siteTitle`: Title to use in the browser tab and the machine readable feed output. (optional)
 siteTitle: "Land Surveyor Community Feeds - Land Surveyors United"
