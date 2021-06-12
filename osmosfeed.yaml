@@ -1,16 +1,17 @@
 cacheUrl: https://landsurveyorsunited.github.io/surveyorcommunity/cache.json
 sources:
-  - href: https://feeds.feedburner.com/latestactivitylandsurveyors
-  - href: https://landsurveyorsunited.com/forum/topics/feed/all
-  - href: https://feeds.feedburner.com/landsurveyorsunited-videos
-  - href: https://landsurveyorsunited.com/photo/feed/all
-  - href: https://landsurveyorsunited.com/profiles/blog/list/feed/all
-  - href: https://landsurveyorsunited.com/notes/feed/all
-  - href: https://landsurveyorsunited.com/almanac/feed/all
-  - href: https://landsurveyorsunited.com/articles/feed/all
+  - href: https://feeds.feedburner.com/latestactivitylandsurveyors/
+  - href: https://landsurveyorsunited.com/forum/topics/feed/all/
+  - href: https://feeds.feedburner.com/landsurveyorsunited-videos/
+  - href: https://landsurveyorsunited.com/photo/feed/all/
+  - href: https://landsurveyorsunited.com/profiles/blog/list/feed/all/
+  - href: https://landsurveyorsunited.com/notes/feed/all/
+  - href: https://landsurveyorsunited.com/almanac/feed/all/
+  - href: https://landsurveyorsunited.com/articles/feed/all/
   
-`siteTitle`:
+# `siteTitle`:
 siteTitle: "Land Surveyor Community Feeds - Land Surveyors United"
 
 # `cacheMaxDays` Max number of days to keep the feed content in cache. A very large value can increase the initial load time of the site. (optional)
 cacheMaxDays: 20
+#
