@@ -13,7 +13,5 @@ sources:
   - href: https://landsurveyorsunited.com/hubs/excel/forum/feed/all/
   - href: https://landsurveyorsunited.com/hubs/drone-surveying/forum/feed/all/
   - href: https://landsurveyorsunited.com/hubs/roboticsforlandsurveyors/forum/feed/all/
-# `siteTitle`:
 siteTitle: "Land Surveyor Community Feeds - Land Surveyors United"
-# `cacheMaxDays` Max number of days to keep the feed content in cache. A very large value can increase the initial load time of the site. (optional)
 cacheMaxDays: 30
