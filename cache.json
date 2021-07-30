@@ -248,17 +248,7 @@
       "title": "Land Surveyors Almanac - Land Surveyors United - Global Surveying Community",
       "feedUrl": "https://landsurveyorsunited.com/almanac/feed/all/",
       "siteUrl": "https://landsurveyorsunited.com/almanac/feed/all/",
-      "articles": [
-        {
-          "id": "https://landsurveyorsunited.com/almanac/2015-alta-survey-correction",
-          "author": null,
-          "description": "In 2015, I performed an ALTA survey on +/-150 Acres of land.  Recently, I dicovered an error which requires a 6' shift on a portion of the boundary.\nWhat is the proper procedure to correct this?",
-          "link": "https://landsurveyorsunited.com/almanac/2015-alta-survey-correction",
-          "publishedOn": "2021-06-30T13:22:34.000Z",
-          "wordCount": 4338,
-          "title": "2015 ALTA Survey Correction"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Surveying Articles &amp; Presentations - Land Surveyors United - Global Surveying Community",
