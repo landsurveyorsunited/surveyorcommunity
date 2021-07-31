@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://landsurveyorsunited.github.io/surveyorcommunity/index.html</id>
     <title>Land Surveyor Community Feeds - Land Surveyors United</title>
-    <updated>2021-07-31T06:10:25.776Z</updated>
+    <updated>2021-07-31T09:08:54.886Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://landsurveyorsunited.github.io/surveyorcommunity/index.html"/>
     <link rel="self" href="https://landsurveyorsunited.github.io/surveyorcommunity/feed.atom"/>
@@ -359,19 +359,6 @@ Second, if you have not looked at your Community Profile in a few days, you shou
         <updated>2021-07-02T14:48:39.000Z</updated>
         <summary type="html"><![CDATA[E38 Survey Solutions had the opportunity to discuss our RTK GNSS accuracy test with Geo Week News - check it out here:
 https://www.geoweeknews.com/news/what-does-the-rtk-gnss-accuracy-test-between-the-emlid-reach-rs2-and-topcon-hiper-vr-tell-us]]></summary>
-        <author>
-            <name>Land Surveyor Community Forum - Land Surveyors United - Global Surveying Community</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nikon SURVEY file conversion]]></title>
-        <id>https://landsurveyorsunited.com/forum/topics/nikon-survey-file-conversion</id>
-        <link href="https://landsurveyorsunited.com/forum/topics/nikon-survey-file-conversion"/>
-        <updated>2021-07-01T18:29:39.000Z</updated>
-        <summary type="html"><![CDATA[Hi all-
-I am looking for a way to convert my Nikon SURVEY file format to either a CSV or TXT file type.
-I downloaded it off the instrument prior to sending it off for repairs but forgot to convert beforehand.
-Thanks in advance.]]></summary>
         <author>
             <name>Land Surveyor Community Forum - Land Surveyors United - Global Surveying Community</name>
         </author>
