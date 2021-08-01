@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://landsurveyorsunited.github.io/surveyorcommunity/index.html</id>
     <title>Land Surveyor Community Feeds - Land Surveyors United</title>
-    <updated>2021-08-01T00:32:19.779Z</updated>
+    <updated>2021-08-01T03:09:26.924Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://landsurveyorsunited.github.io/surveyorcommunity/index.html"/>
     <link rel="self" href="https://landsurveyorsunited.github.io/surveyorcommunity/feed.atom"/>
@@ -350,17 +350,6 @@ In a recent podcast, John Nelson talks about the creative side of the art of Car
 Second, if you have not looked at your Community Profile in a few days, you should!  You will now see that you have quick access to all of the tools I am about to introduce to you right from …]]></summary>
         <author>
             <name>Surveyor Apps and Community Updates - Land Surveyors United - Global Surveying Community</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reach RS2 vs. Topcon Hiper VR case study]]></title>
-        <id>https://landsurveyorsunited.com/forum/topics/reach-rs2-vs-topcon-hiper-vr-case-study</id>
-        <link href="https://landsurveyorsunited.com/forum/topics/reach-rs2-vs-topcon-hiper-vr-case-study"/>
-        <updated>2021-07-02T14:48:39.000Z</updated>
-        <summary type="html"><![CDATA[E38 Survey Solutions had the opportunity to discuss our RTK GNSS accuracy test with Geo Week News - check it out here:
-https://www.geoweeknews.com/news/what-does-the-rtk-gnss-accuracy-test-between-the-emlid-reach-rs2-and-topcon-hiper-vr-tell-us]]></summary>
-        <author>
-            <name>Land Surveyor Community Forum - Land Surveyors United - Global Surveying Community</name>
         </author>
     </entry>
 </feed>
