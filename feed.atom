@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://landsurveyorsunited.github.io/surveyorcommunity/index.html</id>
     <title>Land Surveyor Community Feeds - Land Surveyors United</title>
-    <updated>2021-08-02T09:09:12.512Z</updated>
+    <updated>2021-08-02T12:14:05.836Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://landsurveyorsunited.github.io/surveyorcommunity/index.html"/>
     <link rel="self" href="https://landsurveyorsunited.github.io/surveyorcommunity/feed.atom"/>
@@ -333,16 +333,6 @@ In a recent podcast, John Nelson talks about the creative side of the art of Car
         <link href="https://landsurveyorsunited.com/articles/the-great-diamond-hoax-of-1872-upended-part-iii"/>
         <updated>2021-07-06T18:01:21.000Z</updated>
         <summary type="html"><![CDATA[The Great Diamond Hoax of 1872 Upended - Part 3 - Snapshot - Compressed.pdf]]></summary>
-        <author>
-            <name>Surveying Articles &amp; Presentations - Land Surveyors United - Global Surveying Community</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Great Diamond Hoax of 1872 - Upended - Part II]]></title>
-        <id>https://landsurveyorsunited.com/articles/the-great-diamond-hoax-of-1872-upended-part-ii</id>
-        <link href="https://landsurveyorsunited.com/articles/the-great-diamond-hoax-of-1872-upended-part-ii"/>
-        <updated>2021-07-03T21:56:21.000Z</updated>
-        <summary type="html"><![CDATA[The Great Diamond Hoax of 1872 Upended - Part 2 - Snapshot - Compressed.pdf]]></summary>
         <author>
             <name>Surveying Articles &amp; Presentations - Land Surveyors United - Global Surveying Community</name>
         </author>
