@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://landsurveyorsunited.github.io/surveyorcommunity/index.html</id>
     <title>Land Surveyor Community Feeds - Land Surveyors United</title>
-    <updated>2021-08-07T21:07:51.025Z</updated>
+    <updated>2021-08-08T00:28:57.119Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://landsurveyorsunited.github.io/surveyorcommunity/index.html"/>
     <link rel="self" href="https://landsurveyorsunited.github.io/surveyorcommunity/feed.atom"/>
@@ -352,19 +352,6 @@ However, if I do the resection using standard setup( where i nominate each targe
 Any ideas why its doing this?]]></summary>
         <author>
             <name>Land Surveyor Community Forum - Land Surveyors United - Global Surveying Community</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maps and Cartography for Simplicity in Map-Making]]></title>
-        <id>https://landsurveyorsunited.com/profiles/blog/list/maps-and-cartography-for-simplicity-in-map-making</id>
-        <link href="https://landsurveyorsunited.com/profiles/blog/list/maps-and-cartography-for-simplicity-in-map-making"/>
-        <updated>2021-07-09T10:12:18.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to maps, you must know that map-making is part art and part science. To turn maps into an effective communication tool, you need to reach your audiences. To reach your audiences, the map must present itself in a simple way that gives a sense of comfort and easement to the map users. There are many GIS Mapping Companies that can create sophisticated yet simple-to-visualize maps that are truly making an impact in the Cartography world.
- 
-What is the Need for Simplicity in Map Making? 
-In a recent podcast, John Nelson talks about the creative side of the art of Cartography and also sheds some light on the skills necessary to make a good map. From his talk, we realized that there are different skills which are necessary to make a good map and among all these skills the most impor…]]></summary>
-        <author>
-            <name>Land Surveyor Blogs - Land Surveyors United - Global Surveying Community</name>
         </author>
     </entry>
 </feed>
