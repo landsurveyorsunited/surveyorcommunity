@@ -76,6 +76,33 @@
       "siteUrl": "https://landsurveyorsunited.com/photo/feed/all/",
       "articles": [
         {
+          "id": "https://landsurveyorsunited.com/photo/ptolemyworldmap",
+          "author": null,
+          "description": "Of all the ancient maps, this one was surely the most influential. As Jerry Brotton writes in A History of the World in 12 Maps, Claudius Ptolemy’s remarkably comprehensive Geography — completed around 150 A.D. — “would come to define mapmaking for the next two millennia.” It wasn’t a map in the standard format, but an eight-volume book that claimed to describe the entire known world according to mathematical principles, with longitudinal and latitudinal coordinates for various locations. It boasted an astonishing 8,000 place names, including regions as far flung as Iceland and China. As with the Peutinger Table, the originals are lost. Likewise, the oldest known version comes from 13th-century Byzantium, where scholars resurrected the map that would dominate and inform cartographic efforts for centuries to come.",
+          "link": "https://landsurveyorsunited.com/photo/ptolemyworldmap",
+          "publishedOn": "2021-08-10T22:59:43.000Z",
+          "wordCount": 1400,
+          "title": "Ptolemy’s Geography -World Map 150 A.D"
+        },
+        {
+          "id": "https://landsurveyorsunited.com/photo/bedolina-roccia-1-foto-rilievo",
+          "author": null,
+          "description": "The mountain-dwelling people of northern Italy etched the Bedolina map into glacially polished granite in Valcamonica, a valley that contains one of the world’s greatest collections of rock art. The 8-by-14-foot petroglyph stands among hundreds of thousands of others, likely created in the first millennium B.C. It’s many abstract symbols are supposed to depict buildings, fields and paths, among other things. Scholars disagree, though, on whether the map was meant as a portrayal of an actual geographical area, or only as a symbolic statement — about the relationship between its creators and their environment, for example.",
+          "link": "https://landsurveyorsunited.com/photo/bedolina-roccia-1-foto-rilievo",
+          "publishedOn": "2021-08-10T22:57:31.000Z",
+          "wordCount": 1361,
+          "title": "The Bedolina Petroglyph"
+        },
+        {
+          "id": "https://landsurveyorsunited.com/photo/babylonian-map-of-the-world-700-500-bc",
+          "author": null,
+          "description": "The earliest known attempt to show the Earth in its entirety was the Imago Mundi, or Babylonian map of the world, thought to date to around 600 B.C. The city of Babylon itself figures as a large rectangle, bisected by another rectangle representing the Euphrates River. A few neighboring cities dot the area nearby, and surrounding them all is a ring labeled the “Salt-Sea.” Beyond this circular waterway lie eight islands inhabited by legendary beings. \n \nThe Imago Mundi is just one of many maps inscribed in the clay tablets of Mesopotamia. It seems to be unique, however, in its scope. “Most ancient clay maps are large-scale representations of small areas, showing irrigation, fields and, most surely, ownership,” John O. E. Clark writes in Maps that Changed the World. They are also quite precise. “In contrast,” Assyriologist Wayne Horowitz writes, “the relative size and location of many of the features on the World Map seem preposterous.” But for its purpose — to mythologize, not to settle land disputes — it probably served just fine.",
+          "link": "https://landsurveyorsunited.com/photo/babylonian-map-of-the-world-700-500-bc",
+          "publishedOn": "2021-08-10T22:50:23.000Z",
+          "wordCount": 1447,
+          "title": "Babylonian Map of the World 700-500 BC"
+        },
+        {
           "id": "https://landsurveyorsunited.com/photo/20210628-163519",
           "author": null,
           "description": "Across from Javits Center NYC",
