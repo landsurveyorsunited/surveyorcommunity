@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://landsurveyorsunited.github.io/surveyorcommunity/index.html</id>
     <title>Land Surveyor Community Feeds - Land Surveyors United</title>
-    <updated>2021-08-11T09:08:55.041Z</updated>
+    <updated>2021-08-11T12:13:14.921Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://landsurveyorsunited.github.io/surveyorcommunity/index.html"/>
     <link rel="self" href="https://landsurveyorsunited.github.io/surveyorcommunity/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Airborne Electromagnetic (AEM) Remote Sensing]]></title>
+        <id>https://landsurveyorsunited.com/forum/topics/airborne-electromagnetic-aem-remote-sensing</id>
+        <link href="https://landsurveyorsunited.com/forum/topics/airborne-electromagnetic-aem-remote-sensing"/>
+        <updated>2021-08-11T11:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Airborne Electromagnetic (AEM) Remote Sensing – is a kind of remote sensing method to collect extensive volumes of data from aircraft. Primary purpose is to execute geophysical mapping in fast & cost-effective way which can cover large geographical areas. No need for new drilling on ground access. By using 3D modelling and visualization software, the quick turnaround subsurface mapping would be possible. The procedure is to involve a small airplane or UAV towing a sensor loop for about 30meters above the surface. It will generate an electromagnetic signal transmitted into the earth based on the subsurface properties and creating a secondary field measured from the aircraft. The data will be processed to estimate subsurface electrical properties that would help geoscientists establish the nature of the subsurface.]]></summary>
+        <author>
+            <name>Land Surveyor Community Forum - Land Surveyors United - Global Surveying Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ptolemy’s Geography -World Map 150 A.D]]></title>
         <id>https://landsurveyorsunited.com/photo/ptolemyworldmap</id>
@@ -366,24 +376,6 @@ If you want to help make this better, you might consider donating toward the u
 Visit All Toolkits for Land Surveyors United Members]]></summary>
         <author>
             <name>Surveyor Apps and Community Updates - Land Surveyors United - Global Surveying Community</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TS16 issues - shooting backwards]]></title>
-        <id>https://landsurveyorsunited.com/forum/topics/ts16-issues-shooting-backwards</id>
-        <link href="https://landsurveyorsunited.com/forum/topics/ts16-issues-shooting-backwards"/>
-        <updated>2021-07-13T00:11:21.000Z</updated>
-        <summary type="html"><![CDATA[hi all, looking for some help...
-Anyway, im having some really weird issue with one of our TS16s using captivate here
-
-If I do my resection using autosetup ( our usual way ) it does the resection just fine, then when I go into measure or forward station, the jigger appears to be shooting distances backwards. As if the hz circle adds 180 degrees or the distance is set to negative? ( sorry only way I could think its doing it ) 
-
-However, if I do the resection using standard setup( where i nominate each target ) , it shoots the distance just fine.
-
- 
-Any ideas why its doing this?]]></summary>
-        <author>
-            <name>Land Surveyor Community Forum - Land Surveyors United - Global Surveying Community</name>
         </author>
     </entry>
 </feed>

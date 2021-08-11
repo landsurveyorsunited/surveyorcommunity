@@ -6,6 +6,15 @@
       "siteUrl": "https://landsurveyorsunited.com/forum/topics/feed/all/",
       "articles": [
         {
+          "id": "https://landsurveyorsunited.com/forum/topics/airborne-electromagnetic-aem-remote-sensing",
+          "author": null,
+          "description": "Airborne Electromagnetic (AEM) Remote Sensing – is a kind of remote sensing method to collect extensive volumes of data from aircraft. Primary purpose is to execute geophysical mapping in fast & cost-effective way which can cover large geographical areas. No need for new drilling on ground access. By using 3D modelling and visualization software, the quick turnaround subsurface mapping would be possible. The procedure is to involve a small airplane or UAV towing a sensor loop for about 30meters above the surface. It will generate an electromagnetic signal transmitted into the earth based on the subsurface properties and creating a secondary field measured from the aircraft. The data will be processed to estimate subsurface electrical properties that would help geoscientists establish the nature of the subsurface.",
+          "link": "https://landsurveyorsunited.com/forum/topics/airborne-electromagnetic-aem-remote-sensing",
+          "publishedOn": "2021-08-11T11:21:00.000Z",
+          "wordCount": 3576,
+          "title": "Airborne Electromagnetic (AEM) Remote Sensing"
+        },
+        {
           "id": "https://landsurveyorsunited.com/forum/topics/what-are-the-benefits-of-outsourcing-bim-services",
           "author": null,
           "description": "Building Information Modeling (BIM) is rising as an innovative way to manage projects, BIM expedites collaboration within stakeholders, which will lead to improved profitability, reduced costs, better time management, and improved client relationship. BIM not only allows design and construction teams to work more efficiently, but it allows them to obtain the data they generate during the process to gain from operational and maintenance activities. \nThe global AEC industry must look for intelligent, productive, and progressive ways to design and build not just as a means to keep up with global demand but to help create spaces that are smarter and more flexible.\nCost and time restrictions, a scarcity of trained individuals with a comprehensive understanding of BIM, and the infrastructure and technology required for these services are all major issues for many businesses. When in-house services become unmanageable, outsourcing BIM services, especially Revit model development and family creation, makes sense.\nHere are some advantages associates with CAD Outsourcing services\n• Cost-Benefit\n• Access to global talent\n• Scalability\n• Quicker Turn-Around Time\n• 24-hour work cycle\n• Integration with offsite team\n• Zero Setup cost \n• Focus on core competency\nINDOVANCE Inc delivers a full range of BIM modeling projects. We work on parametric family creation, model creation for all LOD (Level of Detail), 4D, 5D, and 6D support, and model phasing, as well. We also provide complete support for CAD to BIM, point cloud to BIM conversions, and PDF to BIM conversions.\nGO BIG with BIM with a Specialized CAD Partner",
@@ -58,15 +67,6 @@
           "publishedOn": "2021-07-16T10:46:42.000Z",
           "wordCount": 3621,
           "title": "Licensed Flood Elevation Certificate Surveyors or Engineer"
-        },
-        {
-          "id": "https://landsurveyorsunited.com/forum/topics/ts16-issues-shooting-backwards",
-          "author": null,
-          "description": "hi all, looking for some help...\nAnyway, im having some really weird issue with one of our TS16s using captivate here\n\nIf I do my resection using autosetup ( our usual way ) it does the resection just fine, then when I go into measure or forward station, the jigger appears to be shooting distances backwards. As if the hz circle adds 180 degrees or the distance is set to negative? ( sorry only way I could think its doing it ) \n\nHowever, if I do the resection using standard setup( where i nominate each target ) , it shoots the distance just fine.\n\n \nAny ideas why its doing this?",
-          "link": "https://landsurveyorsunited.com/forum/topics/ts16-issues-shooting-backwards",
-          "publishedOn": "2021-07-13T00:11:21.000Z",
-          "wordCount": 3553,
-          "title": "TS16 issues - shooting backwards"
         }
       ]
     },
