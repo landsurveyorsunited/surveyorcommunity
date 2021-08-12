@@ -6,6 +6,15 @@
       "siteUrl": "https://landsurveyorsunited.com/forum/topics/feed/all/",
       "articles": [
         {
+          "id": "https://landsurveyorsunited.com/forum/topics/surveying-in-the-year-2050",
+          "author": null,
+          "description": "Do you think the world would still need land surveyors in 29 year's time?",
+          "link": "https://landsurveyorsunited.com/forum/topics/surveying-in-the-year-2050",
+          "publishedOn": "2021-08-12T08:48:08.000Z",
+          "wordCount": 3464,
+          "title": "Surveying in the year 2050"
+        },
+        {
           "id": "https://landsurveyorsunited.com/forum/topics/differences-similarities-of-land-surveying-gis-cartography-remote",
           "author": null,
           "description": "Land Surveying, provide precise biophysical information (x,y,z) coordinates in a single/multiple points observation. GIS & Cartography, are not used to obtain fundamental biophysical information however, it can show, display & process the    information from data obtain from other sources (e.g. land surveying & remote sensing). Remote Sensing on the other hand, provide fundamental biophysical information including coordinates, elevation, depth, etc. and can cover large geographical areas.",
