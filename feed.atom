@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://landsurveyorsunited.github.io/surveyorcommunity/index.html</id>
     <title>Land Surveyor Community Feeds - Land Surveyors United</title>
-    <updated>2021-08-14T18:09:46.040Z</updated>
+    <updated>2021-08-14T21:08:07.700Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://landsurveyorsunited.github.io/surveyorcommunity/index.html"/>
     <link rel="self" href="https://landsurveyorsunited.github.io/surveyorcommunity/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GPS vs GNSS]]></title>
+        <id>https://landsurveyorsunited.com/photo/gps-vs-gnss</id>
+        <link href="https://landsurveyorsunited.com/photo/gps-vs-gnss"/>
+        <updated>2021-08-14T20:09:02.000Z</updated>
+        <summary type="html"><![CDATA[GPS vs GNSS]]></summary>
+        <author>
+            <name>📸 Land Surveying Photos - Land Surveyors United - Global Surveying Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting it done!]]></title>
+        <id>https://landsurveyorsunited.com/photo/dpe</id>
+        <link href="https://landsurveyorsunited.com/photo/dpe"/>
+        <updated>2021-08-14T19:24:12.000Z</updated>
+        <summary type="html"><![CDATA[Land Surveyor submitted photos from all locations around the world. Picture yourself as a land surveyor in the largest collection of surveying photos anywhere on the internet.]]></summary>
+        <author>
+            <name>📸 Land Surveying Photos - Land Surveyors United - Global Surveying Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surveyors are Everywhere]]></title>
+        <id>https://landsurveyorsunited.com/photo/everywhere</id>
+        <link href="https://landsurveyorsunited.com/photo/everywhere"/>
+        <updated>2021-08-14T19:24:12.000Z</updated>
+        <summary type="html"><![CDATA[Share your most outrageous surveying photo with us in the comments]]></summary>
+        <author>
+            <name>📸 Land Surveying Photos - Land Surveyors United - Global Surveying Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Surveying in the year 2050]]></title>
         <id>https://landsurveyorsunited.com/forum/topics/surveying-in-the-year-2050</id>
