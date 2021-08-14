@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://landsurveyorsunited.github.io/surveyorcommunity/index.html</id>
     <title>Land Surveyor Community Feeds - Land Surveyors United</title>
-    <updated>2021-08-14T06:10:27.307Z</updated>
+    <updated>2021-08-14T09:08:29.122Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://landsurveyorsunited.github.io/surveyorcommunity/index.html"/>
     <link rel="self" href="https://landsurveyorsunited.github.io/surveyorcommunity/feed.atom"/>
@@ -366,36 +366,6 @@ When you request a certificate, the surveyor comes to your home or building and 
         <summary type="html"><![CDATA[My kind of office :)]]></summary>
         <author>
             <name>📸 Land Surveying Photos - Land Surveyors United - Global Surveying Community</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Toolkit for Surveying Businesses]]></title>
-        <id>https://landsurveyorsunited.com/notes/toolkit-for-surveying-businesses</id>
-        <link href="https://landsurveyorsunited.com/notes/toolkit-for-surveying-businesses"/>
-        <updated>2021-07-15T19:14:25.000Z</updated>
-        <summary type="html"><![CDATA[The Toolkit for Land Surveying Businesses
-This toolkit is a quick access to many tools needed by Land Surveying businesses anywhere in the world.   It includes a place to post your available surveying jobs, a directory to add your company listing, a place for finding affordable land surveying equipment and a gateway to many apps which have been developed for the Land Surveyors United community, such as Survey Crew Apps, Member Apps and Mentorship.
-
-Related: All Land Surveyors United Toolkits]]></summary>
-        <author>
-            <name>Surveyor Apps and Community Updates - Land Surveyors United - Global Surveying Community</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Land Surveying Company Directory for USA]]></title>
-        <id>https://landsurveyorsunited.com/notes/land-surveying-company-directory-for-usa</id>
-        <link href="https://landsurveyorsunited.com/notes/land-surveying-company-directory-for-usa"/>
-        <updated>2021-07-15T18:55:21.000Z</updated>
-        <summary type="html"><![CDATA[Add Your USA Surveying Company to the Directory
-One of the recent trends which seems to envelope USA Based surveying companies is becoming longer than usual waiting times to have a survey performed.  When we are more transparent about the current workload locally, they public will feel more informed and in turn, work with your time constraints.  One of the ways that we are trying to help surveying companies convey these wait times to the public is to provide a search engine optimized surveying company directory where they can create a surveying company listing which can be edited on the fly without having to edit your website or calling your webmaster.  Simply make a post here and in the post body, tell the public about your current normal wait.  When things change, simply edit your listing which you control.   There is no charge to be added to this directory...it was built to for you to use and its incredibly simple to use.   
-Surveying Company Directory
-Surveying Companies in the USA
-If you want to help make this better, you might consider donating toward the upcoming Real Estate Agents App which aggregates Land Surveyors Near Them for referrals and waittimes when recommending a local land surveyor.
- 
- 
-Visit All Toolkits for Land Surveyors United Members]]></summary>
-        <author>
-            <name>Surveyor Apps and Community Updates - Land Surveyors United - Global Surveying Community</name>
         </author>
     </entry>
 </feed>
