@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://landsurveyorsunited.github.io/surveyorcommunity/index.html</id>
     <title>Land Surveyor Community Feeds - Land Surveyors United</title>
-    <updated>2021-08-14T21:08:07.700Z</updated>
+    <updated>2021-08-15T00:28:57.844Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://landsurveyorsunited.github.io/surveyorcommunity/index.html"/>
     <link rel="self" href="https://landsurveyorsunited.github.io/surveyorcommunity/feed.atom"/>
@@ -374,18 +374,6 @@ Sell Equipment|
 Equipment Request]]></summary>
         <author>
             <name>Surveyor Apps and Community Updates - Land Surveyors United - Global Surveying Community</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Licensed Flood Elevation Certificate Surveyors or Engineer]]></title>
-        <id>https://landsurveyorsunited.com/forum/topics/licensed-flood-elevation-certificate-surveyors-or-engineer</id>
-        <link href="https://landsurveyorsunited.com/forum/topics/licensed-flood-elevation-certificate-surveyors-or-engineer"/>
-        <updated>2021-07-16T10:46:42.000Z</updated>
-        <summary type="html"><![CDATA[An flood elevation certificate is a document issued by the National Flood Insurance Program (NFIP) that shows important features of your property like its location, flood zone, building characteristics, and elevation of its lowest floor. An Elevation Certificate is an actual field survey by a licensed professional surveyor. The elevation compares house and building elevations to the local flood elevation as determined by the Federal Emergency Management Agency. An Elevation Certificate is a multi-page form that is completed by a licensed flood elevation certificate surveyors or engineer that determines the exact point at which your home or building is susceptible to flooding.
-
-When you request a certificate, the surveyor comes to your home or building and notes the structure, size, construction restrictions, floors, and elevation of the lowest grade floor of the building. They then share this information with the National Flood Insurance Program (NFIP) and it is used to determine your insurance premium rate and/or ensure that your home or building is in compliance with local floodplain management ordinances.]]></summary>
-        <author>
-            <name>Land Surveyor Community Forum - Land Surveyors United - Global Surveying Community</name>
         </author>
     </entry>
 </feed>
