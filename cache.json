@@ -85,6 +85,15 @@
       "siteUrl": "https://landsurveyorsunited.com/photo/feed/all/",
       "articles": [
         {
+          "id": "https://landsurveyorsunited.com/photo/child-texting",
+          "author": null,
+          "description": "These are the sure signs that your child is getting into surveying..",
+          "link": "https://landsurveyorsunited.com/photo/child-texting",
+          "publishedOn": "2021-08-15T21:07:23.000Z",
+          "wordCount": 1276,
+          "title": "Is your child texting about Surveying?"
+        },
+        {
           "id": "https://landsurveyorsunited.com/photo/gps-vs-gnss",
           "author": null,
           "description": "GPS vs GNSS",
