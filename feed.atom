@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://landsurveyorsunited.github.io/surveyorcommunity/index.html</id>
     <title>Land Surveyor Community Feeds - Land Surveyors United</title>
-    <updated>2021-08-16T09:09:34.600Z</updated>
+    <updated>2021-08-16T12:16:35.917Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://landsurveyorsunited.github.io/surveyorcommunity/index.html"/>
     <link rel="self" href="https://landsurveyorsunited.github.io/surveyorcommunity/feed.atom"/>
@@ -312,25 +312,6 @@ P17 | 44°52'49.19"W | 23°21'15.42"S | 118.921  << GEO-LONG-LAT << SIRGAS2000]
         <updated>2021-07-20T18:24:06.000Z</updated>
         <summary type="html"><![CDATA[Hi Everyone!
 E38 Survey Solutions will be hosting a webinar on collecting ground control points with the Emlid Reach RS2 this Thursday, July 22 at 11AM EST. Sign up for a spot here]]></summary>
-        <author>
-            <name>Land Surveyor Community Forum - Land Surveyors United - Global Surveying Community</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stolen Equipment]]></title>
-        <id>https://landsurveyorsunited.com/forum/topics/stolen-equipment</id>
-        <link href="https://landsurveyorsunited.com/forum/topics/stolen-equipment"/>
-        <updated>2021-07-17T21:58:37.000Z</updated>
-        <summary type="html"><![CDATA[Good night
- 
-Unfortunately the UPS carrier Lost a box in the United States With Leica Robotic Tcrp 1203+ R400 with CS15 equipment ( Serials :
-TCRP: 4824170
-CS15: 5892231
-I've registered them as Stolen. Unfortunately I did not take out insurance either and as such from 6150 usd I received about 150 usd refund.  
-I don't understand how they lose a rig without leaving a trail between texas and kentucky. How is it possible? neither invoice nor proof of payment was sufficient to receive further compensation.
- 
-
-Any suggestion?]]></summary>
         <author>
             <name>Land Surveyor Community Forum - Land Surveyors United - Global Surveying Community</name>
         </author>
