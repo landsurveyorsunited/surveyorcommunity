@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://landsurveyorsunited.github.io/surveyorcommunity/index.html</id>
     <title>Land Surveyor Community Feeds - Land Surveyors United</title>
-    <updated>2021-08-16T06:10:47.803Z</updated>
+    <updated>2021-08-16T09:09:34.600Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://landsurveyorsunited.github.io/surveyorcommunity/index.html"/>
     <link rel="self" href="https://landsurveyorsunited.github.io/surveyorcommunity/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lidar Scanning in Abania]]></title>
+        <id>https://landsurveyorsunited.com/photo/lidarkosovo</id>
+        <link href="https://landsurveyorsunited.com/photo/lidarkosovo"/>
+        <updated>2021-08-16T08:57:12.000Z</updated>
+        <summary type="html"><![CDATA[Lidar surveying for the #design of the new line, 400 kV Transmission Line Albania - North Macedonia
+(Fier - Elbasan - Qafe Thane) about 140km 🗾line, using the method of #aerial #photogrammetry and data #collection with LiDAR  Scanning System #Riegl VUX-240. 
+Albania, Kosovo, North Macedonia, Montenegro.]]></summary>
+        <author>
+            <name>📸 Land Surveying Photos - Land Surveyors United - Global Surveying Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photogrametry and Lidar Surveying Albania Kosovo]]></title>
+        <id>https://landsurveyorsunited.com/photo/Photogrametry</id>
+        <link href="https://landsurveyorsunited.com/photo/Photogrametry"/>
+        <updated>2021-08-16T08:30:15.000Z</updated>
+        <summary type="html"><![CDATA[Matric 300 RTK Surveying. 
+Geomatrix Solution part of Alb-Matrix Group Shpk]]></summary>
+        <author>
+            <name>📸 Land Surveying Photos - Land Surveyors United - Global Surveying Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is your child texting about Surveying?]]></title>
         <id>https://landsurveyorsunited.com/photo/child-texting</id>
