@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://landsurveyorsunited.github.io/surveyorcommunity/index.html</id>
     <title>Land Surveyor Community Feeds - Land Surveyors United</title>
-    <updated>2021-08-20T06:10:58.134Z</updated>
+    <updated>2021-08-20T09:08:56.165Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://landsurveyorsunited.github.io/surveyorcommunity/index.html"/>
     <link rel="self" href="https://landsurveyorsunited.github.io/surveyorcommunity/feed.atom"/>
@@ -269,20 +269,6 @@ www.rssground.com code snippet --> Your browser does not support inline frames o
 This is the Surveying Jobs Board, which has been hosted by Land Surveyors United Community since…]]></summary>
         <author>
             <name>Land Surveyor Community Forum - Land Surveyors United - Global Surveying Community</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[North coast of São Paulo state. Brazil. Praia da Almada]]></title>
-        <id>https://landsurveyorsunited.com/photo/praia-da-almada-ubatuba-sp-brasil-14-07-2021</id>
-        <link href="https://landsurveyorsunited.com/photo/praia-da-almada-ubatuba-sp-brasil-14-07-2021"/>
-        <updated>2021-07-21T18:26:26.000Z</updated>
-        <summary type="html"><![CDATA[Praia da Almada, Ubatuba-SP, Brasil.
- 
-14-07-2021 - 5:38 PM
-P17,512231.5503,7417255.1139,118.921  << UTM 23S << SIRGAS2000
-P17 | 44°52'49.19"W | 23°21'15.42"S | 118.921  << GEO-LONG-LAT << SIRGAS2000]]></summary>
-        <author>
-            <name>📸 Land Surveying Photos - Land Surveyors United - Global Surveying Community</name>
         </author>
     </entry>
 </feed>
