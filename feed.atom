@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://landsurveyorsunited.github.io/surveyorcommunity/index.html</id>
     <title>Land Surveyor Community Feeds - Land Surveyors United</title>
-    <updated>2021-08-22T21:07:29.426Z</updated>
+    <updated>2021-08-23T00:26:52.695Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://landsurveyorsunited.github.io/surveyorcommunity/index.html"/>
     <link rel="self" href="https://landsurveyorsunited.github.io/surveyorcommunity/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Land Surveying Levelling Plotting Plan]]></title>
+        <id>https://landsurveyorsunited.com/photo/antique-old-print-land-surveying-levelling-plotting-plan</id>
+        <link href="https://landsurveyorsunited.com/photo/antique-old-print-land-surveying-levelling-plotting-plan"/>
+        <updated>2021-08-22T22:02:33.000Z</updated>
+        <summary type="html"><![CDATA[Land Surveying Levelling Plotting Plan]]></summary>
+        <author>
+            <name>📸 Land Surveying Photos - Land Surveyors United - Global Surveying Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Students Column Land Surveying Levelling Guide]]></title>
+        <id>https://landsurveyorsunited.com/photo/antique-old-print-students-column-land-surveying-levelling</id>
+        <link href="https://landsurveyorsunited.com/photo/antique-old-print-students-column-land-surveying-levelling"/>
+        <updated>2021-08-22T22:02:33.000Z</updated>
+        <summary type="html"><![CDATA[Students Column Land Surveying Levelling Guide]]></summary>
+        <author>
+            <name>📸 Land Surveying Photos - Land Surveyors United - Global Surveying Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surveying Ardmore Oklahoma — with Nathan Wheat.]]></title>
+        <id>https://landsurveyorsunited.com/photo/ardmore-oklahoma-with-nathan-wheat</id>
+        <link href="https://landsurveyorsunited.com/photo/ardmore-oklahoma-with-nathan-wheat"/>
+        <updated>2021-08-22T21:24:47.000Z</updated>
+        <summary type="html"><![CDATA[Ardmore, Oklahoma]]></summary>
+        <author>
+            <name>📸 Land Surveying Photos - Land Surveyors United - Global Surveying Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Geographical Definitions Illustrated 1893]]></title>
         <id>https://landsurveyorsunited.com/photo/geographical-definitions-illustrated-1893-pictorial-map-poster</id>
