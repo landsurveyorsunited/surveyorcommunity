@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://landsurveyorsunited.github.io/surveyorcommunity/index.html</id>
     <title>Land Surveyor Community Feeds - Land Surveyors United</title>
-    <updated>2021-08-29T15:08:49.470Z</updated>
+    <updated>2021-08-29T18:09:54.411Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://landsurveyorsunited.github.io/surveyorcommunity/index.html"/>
     <link rel="self" href="https://landsurveyorsunited.github.io/surveyorcommunity/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TP Setout]]></title>
+        <id>https://landsurveyorsunited.com/forum/topics/tp-setout</id>
+        <link href="https://landsurveyorsunited.com/forum/topics/tp-setout"/>
+        <updated>2021-08-29T16:31:22.000Z</updated>
+        <summary type="html"><![CDATA[Hello how are you good people. I hope I find you well. Our team is currently working on a Construction site doing construction supervision. We are using Leica TCRM1103 and there is a programme TP Setout which we are not conversant with. I would like to check if this programme is a good substitute of Reference line programme which unfortunately is not loaded on this machine. Thank you. 
+Kind regards
+ 
+Ned]]></summary>
+        <author>
+            <name>Land Surveyor Community Forum - Land Surveyors United - Global Surveying Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#surveying in a FARMiliar place]]></title>
         <id>https://landsurveyorsunited.com/photo/surveying-in-a-farmiliar-place</id>
