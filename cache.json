@@ -280,7 +280,17 @@
       "title": "Surveying Articles &amp; Presentations - Land Surveyors United - Global Surveying Community",
       "feedUrl": "https://landsurveyorsunited.com/articles/feed/all/",
       "siteUrl": "https://landsurveyorsunited.com/articles/feed/all/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://landsurveyorsunited.com/articles/how-bim-can-affect-quantity-surveyors",
+          "author": null,
+          "description": "BIM automates core processes for quantity surveyors in the preconstruction stage by reinforcing the 3D BIM model with material and component cost estimates, model-based BOMs, and scheduling.\nThe role of a Quantity Surveyor in the construction industry carries great importance for AEC firms and clients. The quantity surveying practice requires being in charge of calculating building material quantity and finances within required deadlines, which is a crucial responsibility. Taking the role of a cost consultant to generate a Bill of Quantities (BOQ’s) from 2D drawings can be tedious and error-ridden.\nAdopting Building Information Modeling (BIM) technology helps quantity surveyors to boost efficiency and business through cost and time savings and improved coordination through accurate informa…",
+          "link": "https://landsurveyorsunited.com/articles/how-bim-can-affect-quantity-surveyors",
+          "publishedOn": "2021-08-30T10:59:55.000Z",
+          "wordCount": 3423,
+          "title": "How BIM can affect Quantity Surveyors?"
+        }
+      ]
     },
     {
       "title": "Land Surveyors United - Global Surveying Community",

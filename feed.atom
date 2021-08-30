@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://landsurveyorsunited.github.io/surveyorcommunity/index.html</id>
     <title>Land Surveyor Community Feeds - Land Surveyors United</title>
-    <updated>2021-08-30T09:09:21.160Z</updated>
+    <updated>2021-08-30T12:13:31.394Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://landsurveyorsunited.github.io/surveyorcommunity/index.html"/>
     <link rel="self" href="https://landsurveyorsunited.github.io/surveyorcommunity/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How BIM can affect Quantity Surveyors?]]></title>
+        <id>https://landsurveyorsunited.com/articles/how-bim-can-affect-quantity-surveyors</id>
+        <link href="https://landsurveyorsunited.com/articles/how-bim-can-affect-quantity-surveyors"/>
+        <updated>2021-08-30T10:59:55.000Z</updated>
+        <summary type="html"><![CDATA[BIM automates core processes for quantity surveyors in the preconstruction stage by reinforcing the 3D BIM model with material and component cost estimates, model-based BOMs, and scheduling.
+The role of a Quantity Surveyor in the construction industry carries great importance for AEC firms and clients. The quantity surveying practice requires being in charge of calculating building material quantity and finances within required deadlines, which is a crucial responsibility. Taking the role of a cost consultant to generate a Bill of Quantities (BOQ’s) from 2D drawings can be tedious and error-ridden.
+Adopting Building Information Modeling (BIM) technology helps quantity surveyors to boost efficiency and business through cost and time savings and improved coordination through accurate informa…]]></summary>
+        <author>
+            <name>Surveying Articles &amp; Presentations - Land Surveyors United - Global Surveying Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TP Setout]]></title>
         <id>https://landsurveyorsunited.com/forum/topics/tp-setout</id>
