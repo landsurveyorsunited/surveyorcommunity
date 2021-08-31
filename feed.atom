@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://landsurveyorsunited.github.io/surveyorcommunity/index.html</id>
     <title>Land Surveyor Community Feeds - Land Surveyors United</title>
-    <updated>2021-08-31T09:09:58.309Z</updated>
+    <updated>2021-08-31T12:13:22.556Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://landsurveyorsunited.github.io/surveyorcommunity/index.html"/>
     <link rel="self" href="https://landsurveyorsunited.github.io/surveyorcommunity/feed.atom"/>
@@ -308,22 +308,6 @@ The Imago Mundi is just one of many maps inscribed in the clay tablets of Mesopo
         <summary type="html"><![CDATA[Vintage Land Surveying Advertisement for Cigs]]></summary>
         <author>
             <name>📸 Land Surveying Photos - Land Surveyors United - Global Surveying Community</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Member "Quick View" Feature Added to Community]]></title>
-        <id>https://landsurveyorsunited.com/notes/new-member-quick-view-feature-added-to-community</id>
-        <link href="https://landsurveyorsunited.com/notes/new-member-quick-view-feature-added-to-community"/>
-        <updated>2021-08-01T21:48:10.000Z</updated>
-        <summary type="html"><![CDATA[For over a decade, one of the most requested features from members of the community is a way to hover over a member for a quick snapshot of their profile (like Facebook and Twitter) before having to click over to someone's profile.  Not only does it save time, but it also helps you connect with only those other members who share your interests in surveying, geography or experience.   This new feature can come in handy when looking for someone who is seeking employment to hire or if you are looking to connect with other surveyors in your location.
-Now, I have finally come up with a solution!  
-Head over to the Member Section of the site and you can now use the "Member Quick View" Feature.
-Please Note:  You must be a logged in member to use this feature.  We do our best to always protect the privacy of our members. 
-
- 
-Enjoy!  As always, if you have a suggestion for a feature you would like added to the community, tell us what we should build Next here.]]></summary>
-        <author>
-            <name>Surveyor Apps and Community Updates - Land Surveyors United - Global Surveying Community</name>
         </author>
     </entry>
 </feed>
