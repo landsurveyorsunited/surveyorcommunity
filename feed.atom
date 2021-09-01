@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://landsurveyorsunited.github.io/surveyorcommunity/index.html</id>
     <title>Land Surveyor Community Feeds - Land Surveyors United</title>
-    <updated>2021-09-01T09:09:10.338Z</updated>
+    <updated>2021-09-01T12:13:23.838Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://landsurveyorsunited.github.io/surveyorcommunity/index.html"/>
     <link rel="self" href="https://landsurveyorsunited.github.io/surveyorcommunity/feed.atom"/>
@@ -296,16 +296,6 @@ The Imago Mundi is just one of many maps inscribed in the clay tablets of Mesopo
         <link href="https://landsurveyorsunited.com/photo/us-710-mint-never-hinged-mnh-1957-coasts-1"/>
         <updated>2021-08-03T22:38:33.000Z</updated>
         <summary type="html"><![CDATA[US Stamp 1957-Coast and Geodetic Survey]]></summary>
-        <author>
-            <name>📸 Land Surveying Photos - Land Surveyors United - Global Surveying Community</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vintage Phillip Morris Surveying Advertisement]]></title>
-        <id>https://landsurveyorsunited.com/photo/vintage-phillip-morris-surveying-ad</id>
-        <link href="https://landsurveyorsunited.com/photo/vintage-phillip-morris-surveying-ad"/>
-        <updated>2021-08-02T23:39:43.000Z</updated>
-        <summary type="html"><![CDATA[Vintage Land Surveying Advertisement for Cigs]]></summary>
         <author>
             <name>📸 Land Surveying Photos - Land Surveyors United - Global Surveying Community</name>
         </author>
