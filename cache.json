@@ -58,6 +58,42 @@
       "siteUrl": "https://landsurveyorsunited.com/photo/feed/all/",
       "articles": [
         {
+          "id": "https://landsurveyorsunited.com/photo/230-years-of-survey-mapping",
+          "author": null,
+          "description": "230 years ago, on the 21 June 1791, the Board of Ordnance was founded in order to survey the southern coast of England to help protect Britain from possible French invasion. 230 years later the Board of Ordnance is still going strong, although these days it goes by the name Ordnance Survey. \nTo celebrate its 230th birthday the Ordnance Survey has released Ordnance Survey Mapping Through the Centuries, an Esri story map which both recounts the history of Britain's national mapping agency and also allows you to explore some of its celebrated maps. These maps include the Board of Ordnance's very first map of Kent and the southern coast of England closest to France.\nThe Ordnance Survey Mapping Through the Centuries story map also explores the history of mapping over the last two hundred years and the technological changes in cartography during that time (from trig pillars to orbiting satellites)\n\nDuring lockdown I have had a lot of fun exploring historical Ordnance Survey maps. In particular I have used old Ordnance Survey maps to explore how my neighborhood has developed and changed over the last 150 years.Using vintage Ordnance Survey maps has given me a far greater understanding of how my neighborhood has changed over the last two hundred years and also helped make my local walks far more interesting.\nThe National Library of Scotland's Ordnance Survey Map Finder is a great way to find and view vintage Ordnance Survey map of British towns and cities. Using the library's online map you can find old Ordnance Survey maps dating back as far as the 1860s. By exploring your neighborhood on these historical maps you can learn a lot about how an area has developed over time and about some of the local historical landmarks and buildings which have been replaced by more modern developments.",
+          "link": "https://landsurveyorsunited.com/photo/230-years-of-survey-mapping",
+          "publishedOn": "2021-09-02T19:45:03.000Z",
+          "wordCount": 1576,
+          "title": "230 Years of Survey Mapping"
+        },
+        {
+          "id": "https://landsurveyorsunited.com/photo/drone-no-fly-zones-mapped",
+          "author": null,
+          "description": "The Federal Aviation Authority receives over 100 reports a month of unauthorized unmanned aircraft (UAS). Flying drones around aircraft and airports is both dangerous and illegal. Which is why there is mounting concern over the dramatic increase in incidents involving authorized drones over the last two years.\nUAV Geography's Map of Drone Incidents plots the location of all the UAS sighting reports made to the FAA by pilots, citizens and law enforcement officers. The red markers on the map indicate the location of sightings of unauthorized drones. You can click on these markings to read the actual sighting report.\n\nIf you want to fly a drone then you should bookmark the B4UFLY interactive map. The B4UFLY map shows you where you can and can't fly your drone. The map provides clear status indicators which show you where it is safe to fly or not. For example the map shows that you cannot fly in the Special Flight Rules Area around Washington, DC.\nIf you are flying a drone outside the United States then you might want to bookmark the Fly Safe Geo Zone Map which provides a guide to where drone flying may raise concerns and where it is restricted around the world.",
+          "link": "https://landsurveyorsunited.com/photo/drone-no-fly-zones-mapped",
+          "publishedOn": "2021-09-02T19:36:49.000Z",
+          "wordCount": 1476,
+          "title": "Drone No Fly Zones Mapped"
+        },
+        {
+          "id": "https://landsurveyorsunited.com/photo/516-million-building-outlines-in-africa",
+          "author": null,
+          "description": "Google’s Open Buildings is a new open dataset containing the location and geometry of 516 million buildings across Africa.The data includes the polygon outline of each building, its size in square meters and a confidence score of it being a valid building.\nAnyone can download the full dataset of over 500,000,000 buildings or download smaller datasets for individual level 4 S2 cells. The full data can be downloaded in CSV format or the tile geometry and URLs in GeoJSON format. \n It is hoped that the data will help refine an understanding of where people live, helping authorities to identify where infrastructure and vital services are required. It is also hoped that the data will contribute to a better understanding of population density, help authorities plan emergency responses, help with the rollout of digital address systems, and help with national planning.\nThe buildings were detected from satellite imagery by AI. The building data in some areas may be more accurate than in others. These confidence differences can emerge for a number of reasons. For example geological or vegetation features may have been confused with built structures. In some areas the delineations between individual buildings may not be clear in the satellite imagery. Buildings which are the same colors as the surrounding environment or terrain may be difficult to identify. Also very small buildings may be difficult to determine at the satellite resolution.",
+          "link": "https://landsurveyorsunited.com/photo/516-million-building-outlines-in-africa",
+          "publishedOn": "2021-09-02T19:35:14.000Z",
+          "wordCount": 1497,
+          "title": "516 million building outlines in Africa"
+        },
+        {
+          "id": "https://landsurveyorsunited.com/photo/coordinate-precision-lat-long",
+          "author": null,
+          "description": "Yesterday Mapbox announced that they were integrating the controversial global addressing system What3Words with their Mapbox Dash navigation system.This immediately led to a lot of people on Twitter to question why Mapbox don't just use the latitude and longitude geographic coordinate system. You know the coordinate system which Mapbox uses in its own mapping APIs. \nThe latitude and longitude system has the benefit of using two numbers instead of three words. It also has the advantage of being able to provide geographic accuracy to the molecular level - as explained in this xkcd strip. It is also completely free to use and universally accepted and understood.\n\nYesterday, completely incidentally, Vladimir Agafonkin released an Observable notebook which visualizes the accuracy of the latitude and longitude geographic coordinate system when using increasing numbers of decimal places. His Latitude and Longitude Precision visualization overlays a red square on top of a map to show the area of the world that a latitude and longitude number points to. \nUsing two numbers to 4 decimal places you get an address with roughly the same accuracy as what3words. However if you add more numbers to your latitude and longitude address you can get even greater accuracy. Use two numbers to 6 decimal places and you can point to any location on Earth that is about ten centimeters square in size. What's more if you cut and paste a latitude and longitude into the search box of any interactive map it will instantly show you the location with that latitude and longitude address.",
+          "link": "https://landsurveyorsunited.com/photo/coordinate-precision-lat-long",
+          "publishedOn": "2021-09-02T19:29:29.000Z",
+          "wordCount": 1521,
+          "title": "coordinate precision lat long Two Numbers"
+        },
+        {
           "id": "https://landsurveyorsunited.com/photo/you-never-know-where-surveying-will-take-you",
           "author": null,
           "description": "You never know where Land Surveying will take you...",
