@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://landsurveyorsunited.github.io/surveyorcommunity/index.html</id>
     <title>Land Surveyor Community Feeds - Land Surveyors United</title>
-    <updated>2021-09-07T12:13:22.426Z</updated>
+    <updated>2021-09-07T15:09:56.967Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://landsurveyorsunited.github.io/surveyorcommunity/index.html"/>
     <link rel="self" href="https://landsurveyorsunited.github.io/surveyorcommunity/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why is Land Surveying Beneficial?]]></title>
+        <id>https://landsurveyorsunited.com/articles/why-is-land-surveying-beneficial</id>
+        <link href="https://landsurveyorsunited.com/articles/why-is-land-surveying-beneficial"/>
+        <updated>2021-09-07T13:43:00.000Z</updated>
+        <summary type="html"><![CDATA[From construction layout of high-rise steel structures to 3-D laser scanning, Land surveyors perform comprehensive surveying services for commercial and residential developments, buildings, highways, bridges, utilities, waterways, and property acquisitions. Experienced land surveyors utilize state-of-the-art equipment and practical innovation to reduce survey costs and expedite the completion of projects while maintaining a superior product for our clients.
+Land surveying involves measuring and determining property boundaries. Property boundaries are the basis for all property transactions, including buying, selling, mortgaging, and leasing. A secure and strong property market requires certainty in the location of property boundaries. The location of property boundaries and knowledge of ma…]]></summary>
+        <author>
+            <name>Surveying Articles &amp; Presentations - Land Surveyors United - Global Surveying Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kuching, Sarawak. Topographic Survey]]></title>
         <id>https://landsurveyorsunited.com/photo/kuching-sarawak-topographic-survey</id>
