@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://landsurveyorsunited.github.io/surveyorcommunity/index.html</id>
     <title>Land Surveyor Community Feeds - Land Surveyors United</title>
-    <updated>2021-09-09T15:09:37.805Z</updated>
+    <updated>2021-09-09T18:10:27.346Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://landsurveyorsunited.github.io/surveyorcommunity/index.html"/>
     <link rel="self" href="https://landsurveyorsunited.github.io/surveyorcommunity/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Land Surveying is For the Future World]]></title>
+        <id>https://landsurveyorsunited.com/profiles/blog/list/land-surveying-is-for-the-future-world</id>
+        <link href="https://landsurveyorsunited.com/profiles/blog/list/land-surveying-is-for-the-future-world"/>
+        <updated>2021-09-09T11:19:36.000Z</updated>
+        <summary type="html"><![CDATA[Land surveying is a whole world in itself, which involves measuring and mapping the world around us using mathematics, advanced software, and equipment. Land surveyors are capable of calculating just about anything on the ground, in the sky, or at the bottom of the sea and it also includes polar ice caps.
+Land surveyors are employed both in the office and in the field. They are capable of using the highest technology in the fields, such as high-order GPS and aerial and terrestrial scanners for mapping, computation, and taking pictures as evidence. Land surveyors are employed on a variety of projects which ranges from land development and mining discovery to tunnel building and major construction, which ensures that no two days would be the same. They are the ones with profuse expertise in …]]></summary>
+        <author>
+            <name>Land Surveyor Blogs - Land Surveyors United - Global Surveying Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why is Land Surveying Beneficial?]]></title>
         <id>https://landsurveyorsunited.com/articles/why-is-land-surveying-beneficial</id>
