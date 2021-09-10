@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://landsurveyorsunited.github.io/surveyorcommunity/index.html</id>
     <title>Land Surveyor Community Feeds - Land Surveyors United</title>
-    <updated>2021-09-09T21:08:10.520Z</updated>
+    <updated>2021-09-10T00:32:33.032Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://landsurveyorsunited.github.io/surveyorcommunity/index.html"/>
     <link rel="self" href="https://landsurveyorsunited.github.io/surveyorcommunity/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[spreadsheet tools for Land Surveyors]]></title>
+        <id>https://landsurveyorsunited.com/photo/spreadsheet-tools</id>
+        <link href="https://landsurveyorsunited.com/photo/spreadsheet-tools"/>
+        <updated>2021-09-09T22:12:06.000Z</updated>
+        <summary type="html"><![CDATA[Huge collection of #landsurveyor #spreadsheet tools shared by #landsurveyorsunited members! https://surveyorspreadsheets.spread.name/]]></summary>
+        <author>
+            <name>📸 Land Surveying Photos - Land Surveyors United - Global Surveying Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Land Surveying is For the Future World]]></title>
         <id>https://landsurveyorsunited.com/profiles/blog/list/land-surveying-is-for-the-future-world</id>
@@ -453,16 +463,6 @@ Geomatrix Solution part of Alb-Matrix Group Shpk]]></summary>
         <link href="https://landsurveyorsunited.com/forum/topics/differences-similarities-of-land-surveying-gis-cartography-remote"/>
         <updated>2021-08-12T06:10:11.000Z</updated>
         <summary type="html"><![CDATA[Land Surveying, provide precise biophysical information (x,y,z) coordinates in a single/multiple points observation. GIS & Cartography, are not used to obtain fundamental biophysical information however, it can show, display & process the    information from data obtain from other sources (e.g. land surveying & remote sensing). Remote Sensing on the other hand, provide fundamental biophysical information including coordinates, elevation, depth, etc. and can cover large geographical areas.]]></summary>
-        <author>
-            <name>Land Surveyor Community Forum - Land Surveyors United - Global Surveying Community</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Airborne Electromagnetic (AEM) Remote Sensing]]></title>
-        <id>https://landsurveyorsunited.com/forum/topics/airborne-electromagnetic-aem-remote-sensing</id>
-        <link href="https://landsurveyorsunited.com/forum/topics/airborne-electromagnetic-aem-remote-sensing"/>
-        <updated>2021-08-11T11:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Airborne Electromagnetic (AEM) Remote Sensing – is a kind of remote sensing method to collect extensive volumes of data from aircraft. Primary purpose is to execute geophysical mapping in fast & cost-effective way which can cover large geographical areas. No need for new drilling on ground access. By using 3D modelling and visualization software, the quick turnaround subsurface mapping would be possible. The procedure is to involve a small airplane or UAV towing a sensor loop for about 30meters above the surface. It will generate an electromagnetic signal transmitted into the earth based on the subsurface properties and creating a secondary field measured from the aircraft. The data will be processed to estimate subsurface electrical properties that would help geoscientists establish the nature of the subsurface.]]></summary>
         <author>
             <name>Land Surveyor Community Forum - Land Surveyors United - Global Surveying Community</name>
         </author>

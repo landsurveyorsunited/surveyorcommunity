@@ -40,15 +40,6 @@
           "publishedOn": "2021-08-12T06:10:11.000Z",
           "wordCount": 3528,
           "title": "Differences &amp; Similarities of Land Surveying, GIS, Cartography &amp; Remote Sensing"
-        },
-        {
-          "id": "https://landsurveyorsunited.com/forum/topics/airborne-electromagnetic-aem-remote-sensing",
-          "author": null,
-          "description": "Airborne Electromagnetic (AEM) Remote Sensing – is a kind of remote sensing method to collect extensive volumes of data from aircraft. Primary purpose is to execute geophysical mapping in fast & cost-effective way which can cover large geographical areas. No need for new drilling on ground access. By using 3D modelling and visualization software, the quick turnaround subsurface mapping would be possible. The procedure is to involve a small airplane or UAV towing a sensor loop for about 30meters above the surface. It will generate an electromagnetic signal transmitted into the earth based on the subsurface properties and creating a secondary field measured from the aircraft. The data will be processed to estimate subsurface electrical properties that would help geoscientists establish the nature of the subsurface.",
-          "link": "https://landsurveyorsunited.com/forum/topics/airborne-electromagnetic-aem-remote-sensing",
-          "publishedOn": "2021-08-11T11:21:00.000Z",
-          "wordCount": 3576,
-          "title": "Airborne Electromagnetic (AEM) Remote Sensing"
         }
       ]
     },
@@ -57,6 +48,15 @@
       "feedUrl": "https://landsurveyorsunited.com/photo/feed/all/",
       "siteUrl": "https://landsurveyorsunited.com/photo/feed/all/",
       "articles": [
+        {
+          "id": "https://landsurveyorsunited.com/photo/spreadsheet-tools",
+          "author": null,
+          "description": "Huge collection of #landsurveyor #spreadsheet tools shared by #landsurveyorsunited members! https://surveyorspreadsheets.spread.name/",
+          "link": "https://landsurveyorsunited.com/photo/spreadsheet-tools",
+          "publishedOn": "2021-09-09T22:12:06.000Z",
+          "wordCount": 1277,
+          "title": "spreadsheet tools for Land Surveyors"
+        },
         {
           "id": "https://landsurveyorsunited.com/photo/kuching-sarawak-topographic-survey",
           "author": null,
