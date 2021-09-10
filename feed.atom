@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://landsurveyorsunited.github.io/surveyorcommunity/index.html</id>
     <title>Land Surveyor Community Feeds - Land Surveyors United</title>
-    <updated>2021-09-10T18:10:10.389Z</updated>
+    <updated>2021-09-10T21:08:10.957Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://landsurveyorsunited.github.io/surveyorcommunity/index.html"/>
     <link rel="self" href="https://landsurveyorsunited.github.io/surveyorcommunity/feed.atom"/>
@@ -445,26 +445,6 @@ Geomatrix Solution part of Alb-Matrix Group Shpk]]></summary>
         <summary type="html"><![CDATA[Share your most outrageous surveying photo with us in the comments]]></summary>
         <author>
             <name>📸 Land Surveying Photos - Land Surveyors United - Global Surveying Community</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surveying in the year 2050]]></title>
-        <id>https://landsurveyorsunited.com/forum/topics/surveying-in-the-year-2050</id>
-        <link href="https://landsurveyorsunited.com/forum/topics/surveying-in-the-year-2050"/>
-        <updated>2021-08-12T08:48:08.000Z</updated>
-        <summary type="html"><![CDATA[Do you think the world would still need land surveyors in 29 year's time?]]></summary>
-        <author>
-            <name>Land Surveyor Community Forum - Land Surveyors United - Global Surveying Community</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Differences &amp; Similarities of Land Surveying, GIS, Cartography &amp; Remote Sensing]]></title>
-        <id>https://landsurveyorsunited.com/forum/topics/differences-similarities-of-land-surveying-gis-cartography-remote</id>
-        <link href="https://landsurveyorsunited.com/forum/topics/differences-similarities-of-land-surveying-gis-cartography-remote"/>
-        <updated>2021-08-12T06:10:11.000Z</updated>
-        <summary type="html"><![CDATA[Land Surveying, provide precise biophysical information (x,y,z) coordinates in a single/multiple points observation. GIS & Cartography, are not used to obtain fundamental biophysical information however, it can show, display & process the    information from data obtain from other sources (e.g. land surveying & remote sensing). Remote Sensing on the other hand, provide fundamental biophysical information including coordinates, elevation, depth, etc. and can cover large geographical areas.]]></summary>
-        <author>
-            <name>Land Surveyor Community Forum - Land Surveyors United - Global Surveying Community</name>
         </author>
     </entry>
 </feed>
