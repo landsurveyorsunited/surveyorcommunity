@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://landsurveyorsunited.github.io/surveyorcommunity/index.html</id>
     <title>Land Surveyor Community Feeds - Land Surveyors United</title>
-    <updated>2021-09-13T15:09:45.465Z</updated>
+    <updated>2021-09-13T18:11:05.581Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://landsurveyorsunited.github.io/surveyorcommunity/index.html"/>
     <link rel="self" href="https://landsurveyorsunited.github.io/surveyorcommunity/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#Leica Rangefinder Circa 1033]]></title>
+        <id>https://landsurveyorsunited.com/photo/leica-rangefinder-circa-1033</id>
+        <link href="https://landsurveyorsunited.com/photo/leica-rangefinder-circa-1033"/>
+        <updated>2021-09-13T17:23:33.000Z</updated>
+        <summary type="html"><![CDATA[#Leica Rangefinder Circa 1033]]></summary>
+        <author>
+            <name>📸 Land Surveying Photos - Land Surveyors United - Global Surveying Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vermessungs Bureau Dresden (Dresden Survey Bureau)]]></title>
+        <id>https://landsurveyorsunited.com/photo/vermessungs-bureau-dresden-dresden-survey-bureau</id>
+        <link href="https://landsurveyorsunited.com/photo/vermessungs-bureau-dresden-dresden-survey-bureau"/>
+        <updated>2021-09-13T17:09:40.000Z</updated>
+        <summary type="html"><![CDATA[Vermessungs Bureau Dresden (Dresden Survey Bureau)]]></summary>
+        <author>
+            <name>📸 Land Surveying Photos - Land Surveyors United - Global Surveying Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[spreadsheet tools for Land Surveyors]]></title>
         <id>https://landsurveyorsunited.com/photo/spreadsheet-tools</id>
