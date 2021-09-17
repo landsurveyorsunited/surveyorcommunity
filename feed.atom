@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://landsurveyorsunited.github.io/surveyorcommunity/index.html</id>
     <title>Land Surveyor Community Feeds - Land Surveyors United</title>
-    <updated>2021-09-17T06:10:53.477Z</updated>
+    <updated>2021-09-17T09:08:54.889Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://landsurveyorsunited.github.io/surveyorcommunity/index.html"/>
     <link rel="self" href="https://landsurveyorsunited.github.io/surveyorcommunity/feed.atom"/>
@@ -448,16 +448,6 @@ The new Get Hired section of the site now allows you to record a Video Resume an
         <link href="https://landsurveyorsunited.com/photo/geographical-definitions-illustrated-1893-pictorial-map-poster"/>
         <updated>2021-08-22T20:53:25.000Z</updated>
         <summary type="html"><![CDATA[Geographical Definitions Illustrated 1893]]></summary>
-        <author>
-            <name>📸 Land Surveying Photos - Land Surveyors United - Global Surveying Community</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazing Antique compass]]></title>
-        <id>https://landsurveyorsunited.com/photo/compass</id>
-        <link href="https://landsurveyorsunited.com/photo/compass"/>
-        <updated>2021-08-18T19:33:02.000Z</updated>
-        <summary type="html"><![CDATA[Amazing Antique compass]]></summary>
         <author>
             <name>📸 Land Surveying Photos - Land Surveyors United - Global Surveying Community</name>
         </author>
