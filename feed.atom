@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://landsurveyorsunited.github.io/surveyorcommunity/index.html</id>
     <title>Land Surveyor Community Feeds - Land Surveyors United</title>
-    <updated>2021-09-21T06:11:06.152Z</updated>
+    <updated>2021-09-21T09:09:20.816Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://landsurveyorsunited.github.io/surveyorcommunity/index.html"/>
     <link rel="self" href="https://landsurveyorsunited.github.io/surveyorcommunity/feed.atom"/>
@@ -490,16 +490,6 @@ The new Get Hired section of the site now allows you to record a Video Resume an
         <link href="https://landsurveyorsunited.com/photo/ardmore-oklahoma-with-nathan-wheat"/>
         <updated>2021-08-22T21:24:47.000Z</updated>
         <summary type="html"><![CDATA[Ardmore, Oklahoma]]></summary>
-        <author>
-            <name>📸 Land Surveying Photos - Land Surveyors United - Global Surveying Community</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geographical Definitions Illustrated 1893]]></title>
-        <id>https://landsurveyorsunited.com/photo/geographical-definitions-illustrated-1893-pictorial-map-poster</id>
-        <link href="https://landsurveyorsunited.com/photo/geographical-definitions-illustrated-1893-pictorial-map-poster"/>
-        <updated>2021-08-22T20:53:25.000Z</updated>
-        <summary type="html"><![CDATA[Geographical Definitions Illustrated 1893]]></summary>
         <author>
             <name>📸 Land Surveying Photos - Land Surveyors United - Global Surveying Community</name>
         </author>
