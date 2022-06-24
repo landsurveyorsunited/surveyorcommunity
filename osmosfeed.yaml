@@ -14,5 +14,4 @@ sources:
   - href: https://landsurveyorsunited.com/hubs/drone-surveying/forum/feed/all/
   - href: https://landsurveyorsunited.com/hubs/roboticsforlandsurveyors/forum/feed/all/
 siteTitle: "Land Surveyor Feeds - Land Surveyors United Community"
-cacheMaxDays: 30
-#
+cacheMaxDays: 15
