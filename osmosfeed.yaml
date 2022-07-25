@@ -1,4 +1,7 @@
+# `cacheUrl`: A URL that contains previous build output. (required)
 cacheUrl: https://landsurveyorsunited.github.io/surveyorcommunity/cache.json
+
+# `sources`: An array of RSS subscriptions. (required)
 sources:
   - href: https://landsurveyorsunited.com/forum/topics/feed/all/
   - href: https://landsurveyorsunited.com/photo/feed/all/
@@ -16,6 +19,8 @@ sources:
   
 # `siteTitle`: Title to use in the browser tab and the machine readable feed output. (optional)
 siteTitle: "surveyor community::feeds"
+
+timezone: America/New_York
 
 # `cacheMaxDays` Max number of days to keep the feed content in cache. A very large value can increase the initial load time of the site. (optional)
 cacheMaxDays: 30
