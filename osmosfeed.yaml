@@ -16,9 +16,65 @@ sources:
   - href: https://landsurveyorsunited.com/hubs/excel/forum/feed/all/
   - href: https://landsurveyorsunited.com/hubs/drone-surveying/forum/feed/all/
   - href: https://landsurveyorsunited.com/hubs/roboticsforlandsurveyors/forum/feed/all/
-  
+  - href: https://rss.smarketplace.org/feed/
+  - href: https://rss.smarketplace.org/feed/6828
+  - href: https://rss.smarketplace.org/feed/6512
+  - href: https://rss.smarketplace.org/feed/6513
+  - href: https://rss.smarketplace.org/feed/6514
+  - href: https://rss.smarketplace.org/feed/6515
+  - href: https://rss.smarketplace.org/feed/6516
+  - href: https://rss.smarketplace.org/feed/6517
+  - href: https://rss.smarketplace.org/feed/6518
+  - href: https://rss.smarketplace.org/feed/6519
+  - href: https://rss.smarketplace.org/feed/6520
+  - href: https://rss.smarketplace.org/feed/6521
+  - href: https://rss.smarketplace.org/feed/6522
+  - href: https://rss.smarketplace.org/feed/6822
+  - href: https://rss.smarketplace.org/feed/6827
+  - href: https://rss.smarketplace.org/feed/6523
+  - href: https://rss.smarketplace.org/feed/6524
+  - href: https://rss.smarketplace.org/feed/6525
+  - href: https://rss.smarketplace.org/feed/6526
+  - href: https://rss.smarketplace.org/feed/6527
+  - href: https://rss.smarketplace.org/feed/6528
+  - href: https://rss.smarketplace.org/feed/6534
+  - href: https://rss.smarketplace.org/feed/6565
+  - href: https://rss.smarketplace.org/feed/6703
+  - href: https://rss.smarketplace.org/feed/6705
+  - href: https://rss.smarketplace.org/feed/6794
+  - href: https://rss.smarketplace.org/feed/6795
+  - href: https://rss.smarketplace.org/feed/6796
+  - href: https://jobs.landsurveyorsunited.org/feed/
+  - href: https://jobs.landsurveyorsunited.org/feed/5897
+  - href: https://jobs.landsurveyorsunited.org/feed/5891
+  - href: https://jobs.landsurveyorsunited.org/feed/6180
+  - href: https://jobs.landsurveyorsunited.org/feed/5896
+  - href: https://jobs.landsurveyorsunited.org/feed/5895
+  - href: https://jobs.landsurveyorsunited.org/feed/5894
+  - href: https://jobs.landsurveyorsunited.org/feed/5893
+  - href: https://jobs.landsurveyorsunited.org/feed/6245
+  - href: https://jobs.landsurveyorsunited.org/feed/5892
+  - href: https://jobs.landsurveyorsunited.org/feed/6182
+  - href: https://jobs.landsurveyorsunited.org/feed/6531
+  - href: https://jobs.landsurveyorsunited.org/feed/5901
+  - href: https://jobs.landsurveyorsunited.org/feed/6238
+  - href: https://jobs.landsurveyorsunited.org/feed/6200
+  - href: https://jobs.landsurveyorsunited.org/feed/6532
+  - href: https://jobs.landsurveyorsunited.org/feed/6533
+  - href: https://jobs.landsurveyorsunited.org/feed/6536
+  - href: https://jobs.landsurveyorsunited.org/feed/6537
+  - href: https://jobs.landsurveyorsunited.org/feed/6538
+  - href: https://jobs.landsurveyorsunited.org/feed/6535
+  - href: https://jobs.landsurveyorsunited.org/feed/6539
+  - href: https://jobs.landsurveyorsunited.org/feed/6540
+  - href: https://jobs.landsurveyorsunited.org/feed/6547
+  - href: https://jobs.landsurveyorsunited.org/feed/6563
+  - href: https://jobs.landsurveyorsunited.org/feed/6562
+  - href: https://jobs.landsurveyorsunited.org/feed/6588
+  - href: https://jobs.landsurveyorsunited.org/feed/6584
+
 # `siteTitle`: Title to use in the browser tab and the machine readable feed output. (optional)
-siteTitle: "surveyor community::feeds"
+siteTitle: "land surveyor community::feeds"
 
 timezone: America/New_York
 
